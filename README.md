@@ -1,4 +1,4 @@
-Инструкция по обходу блокировок VK, MailRU, Yandex в Украине для Android (OVPN)
+Инструкция по обходу блокировок российских сайтов в Украине для Android (OVPN)
 
 Скачайте файл конфигурации: https://cdn.srv00.com/manual/ovpn.ovpn
 
@@ -10,4 +10,4 @@
 
 ![image](https://cdn.srv00.com/img/ovpn_644.jpg)
 
-Готово, теперь можно закрыть окно OpenVPN Connect, и спокойно заходить в vk, yandex, webmoney, mailru, kaspersky, drweb.
+Готово.

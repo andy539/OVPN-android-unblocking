@@ -9,5 +9,3 @@
 Включаем VPN полгузком.
 
 ![image](https://cdn.srv00.com/img/ovpn_644.jpg)
-
-Готово.
